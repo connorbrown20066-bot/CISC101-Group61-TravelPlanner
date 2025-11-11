@@ -1,3 +1,5 @@
+Change Log (2025-11-11): – Updated Weather Swap if weather is extreme heat or cold to sugest a fitting alternative
+
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -17,6 +19,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 4. **Weather Swap**
    
    - If rain or cold season likely → make sure at least one indoor activity replaces outdoor ones.
+   - If extreme heat or cold is forecasted → prioritize shaded, indoor, or climate-controlled activities
 
 5. **Time Overrun**
    
