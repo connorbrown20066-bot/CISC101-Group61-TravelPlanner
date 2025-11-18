@@ -1,3 +1,5 @@
+November 18th, 2025:    Refined Module 02 based on AI critique: Clearing bounds, applying sequencing rules, specified proximity to the activities, incorporated fallback logic 
+
 ### **Module 2 — Plan Builder (Options → Days)**
 
 Create a short list of candidate activities (e.g., attractions, restaurants, parks).  
